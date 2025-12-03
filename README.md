@@ -18,5 +18,5 @@ Blend creativity + logic in every project
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nekorei05&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 📌 Top Languages
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nekorei05&theme=dark&hide_border=false&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nekorei05&layout=compact&theme=tokyonight)
 
