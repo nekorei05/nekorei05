@@ -27,5 +27,5 @@ If I don’t understand something, I build it
 
 Learn fast → build fast → break fast → fix fast
 
-[![Rei's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nekorei05&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nekorei05)](https://github.com/nekorei05/github-readme-stats)
 
