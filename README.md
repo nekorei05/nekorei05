@@ -33,5 +33,5 @@ Learn fast → build fast → break fast → fix fast
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nekorei05&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nekorei05)](https://github.com/nekorei05/github-readme-stats)
+[![Top Langs]<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nekorei05"/>
 
