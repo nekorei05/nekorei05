@@ -1,6 +1,6 @@
 ## Hey, I’m Nekorei — aka Richa 
 
-(“Neko” = cat in Japanese 🐾 + Rei : my artist & developer identity)
+
 
 I’m a developer who loves building clean interfaces, smooth user experiences and full-stack projects that actually ship.
 
