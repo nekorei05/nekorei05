@@ -5,11 +5,10 @@
 I’m a developer who loves building clean interfaces, smooth user experiences and full-stack projects that actually ship.
 
 ## What I Do
-Build modern UI with HTML • CSS • JavaScript
-Develop APIs & full-stack apps using Node.js • Express.js • MongoDB
-Design minimal, aesthetic user experiences
+Build modern UI with HTML • CSS • JavaScript <br>
+Develop APIs & full-stack apps using Node.js • Express.js • MongoDB <br>
+Design minimal, aesthetic user experiences <br>
 Debug until the bugs move out permanently
-
 Blend creativity + logic in every project
 
 
