@@ -2,7 +2,7 @@
 
 
 
-I’m a developer who loves building clean interfaces, smooth user experiences and full-stack projects that actually ship.
+I’m a developer who loves building clean interfaces, smooth user experiences and full-stack projects that are actually helpful.
 
 ## What I Do
 Build modern UI with HTML • CSS • JavaScript <br>
