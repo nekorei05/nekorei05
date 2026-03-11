@@ -9,7 +9,7 @@ Build modern UI with HTML • CSS • JavaScript <br>
 Develop APIs & full-stack apps using Node.js • Express.js • MongoDB <br>
 Design minimal, aesthetic user experiences <br>
 Debug until the bugs move out permanently <br>
-Blend creativity + logic in every project.
+Blend creativity + logic in every project..
 
 
 # 📊 GitHub Stats:
