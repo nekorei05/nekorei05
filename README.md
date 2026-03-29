@@ -12,17 +12,17 @@ Debug until the bugs move out permanently <br>
 Blend creativity + logic in every project..
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nekorei05&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nekorei05&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-stats-nekorei05.vercel.app/api/top-langs/?username=nekorei05&layout=compact&theme=radical&langs_count=8)
-# 📊 My GitHub Stats:
 
-<!-- Top Stats Card -->
-<img src="https://github-readme-stats-sand-three-42.vercel.app" alt="GitHub Stats" />
+# GitHub Stats:
 
-<!-- Top Languages Card -->
-<img src="https://github-readme-stats-sand-three-42.vercel.app" alt="Top Languages" />
+![](https://github-readme-stats-sand-three-42.vercel.app/api?username=nekorei05&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats-sand-three-42.vercel.app/api/top-langs/?username=nekorei05&layout=compact&theme=radical&langs_count=8)
+
+
+
+
+
+
 
 
 
