@@ -1,4 +1,4 @@
-## Hey, I’m Nekorei — aka Richa 
+## Hey, I’m Nekorei
 
 
 
