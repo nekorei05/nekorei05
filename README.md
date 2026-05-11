@@ -1,4 +1,4 @@
-## Hey I'm Richa. i go by the dev name NekoRei >.<
+## Hey I'm Richa. I go by the dev name NekoRei >.<
 
 ```bash
    building things that feel good to use
