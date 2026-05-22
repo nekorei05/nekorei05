@@ -14,14 +14,6 @@ Design minimal, aesthetic user experiences <br>
 Debug until the bugs move out permanently <br>
 Blend creativity + logic in every project
 
-```bash
-frontend  → react, javascript  
-backend   → node.js, express  
-database  → mongodb, mysql  
-tools     → git, postman
-```
-
-
 
 # GitHub Stats:
 
