@@ -4,7 +4,7 @@
    building things that feel good to use
    ```
 
-Full-stack dev leaning into backend + real-world systems
+Full-stack dev leaning into backend & real-world systems
 I like clean UIs, structured APIs and code that doesn’t fall apart later.
 
 ## What I Do
