@@ -1,20 +1,21 @@
-## Hey I'm Richa. I go by the dev name NekoRei >.<
+## Hie, I'm Richa 
 
-```bash
-   building things that feel good to use
-   ```
+just a silly dev who likes to code.
 
-Full-stack dev leaning into backend & real-world systems
-I like clean UIs, structured APIs and code that doesn’t fall apart later.
+### What I Do
 
-## What I Do
-Build modern UI with HTML • CSS • JavaScript <br>
-Develop APIs & full-stack apps using Node.js • Express.js • MongoDB <br>
-Design minimal, aesthetic user experiences <br>
-Debug until the bugs move out permanently <br>
+* Build APIs and full-stack applications
+* Work with Node.js, Express.js, MongoDB, React & Next.js
+* Enjoy turning ideas into projects
+* Currently learning system design, cloud and DevOps
 
+🌐 Learn more about me: https://richak.vercel.app
 
-# GitHub Stats:
+### Tech Stack
+
+JavaScript • Node.js • Express.js • MongoDB • React • Postman
+
+## GitHub Stats:
 
 ![](https://github-readme-stats-sand-three-42.vercel.app/api?username=nekorei05&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats-sand-three-42.vercel.app/api/top-langs/?username=nekorei05&layout=compact&theme=radical&langs_count=8)
