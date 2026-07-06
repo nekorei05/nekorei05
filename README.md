@@ -9,7 +9,7 @@ just a silly dev who likes to code.
 * Enjoy turning ideas into projects
 * Currently learning system design, cloud and DevOps
 
-🌐 Learn more about me: https://richak.vercel.app
+🌐 Learn more about me: [my portfolio](https://richak.vercel.app)
 
 ### Tech Stack
 
